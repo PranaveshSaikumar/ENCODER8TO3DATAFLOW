@@ -46,9 +46,10 @@ Figure 02  Encoder 8 * 3
 
 5.For different input combinations generate the timing diagram.
 
-**PROGRAM**
+**PROGRAM:**
 
 Developed by: Pranavesh Saikumar
+
 RegisterNumber: 212223040149
 
 ```
@@ -71,7 +72,7 @@ endmodule
 ![waveform for encoder 8 to 3](https://github.com/PranaveshSaikumar/ENCODER8TO3DATAFLOW/assets/151001393/523438cc-798a-4517-801e-8deaa1b96d6f)
 
 
-**RESULT**
+**RESULT:**
 
 Therefore the code has been successfully executed.
 
