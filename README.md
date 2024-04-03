@@ -50,6 +50,7 @@ Figure 02  Encoder 8 * 3
 
 Developed by: Pranavesh Saikumar
 RegisterNumber: 212223040149
+
 ```
 module encoder(a0,a1,a2,d0,d1,d2,d3,d4,d5,d6,d7);
 input d0,d1,d2,d3,d4,d5,d6,d7;
@@ -59,15 +60,19 @@ assign a1=d2|d3|d6|d7;
 assign a2=d4|d5|d6|d7;
 endmodule
 ```
+
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+
 ![RTL logic](https://github.com/PranaveshSaikumar/ENCODER8TO3DATAFLOW/assets/151001393/14ba47fd-15fb-478e-9322-51b2a90db305)
 
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+
 ![waveform for encoder 8 to 3](https://github.com/PranaveshSaikumar/ENCODER8TO3DATAFLOW/assets/151001393/523438cc-798a-4517-801e-8deaa1b96d6f)
 
 
-**RESULTS**
+**RESULT**
+
 Therefore the code has been successfully executed.
 
 
